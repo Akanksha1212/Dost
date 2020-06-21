@@ -15,8 +15,10 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_colorpicker: any
+  firebase_messaging: ^6.0.16
 flutter:
   uses-material-design: true
   assets:
-    - assets/dost-sfvyhv-d7ebfd769dab.json
+    - assets/dost-sfvyhv-88dce8081da8.json
     - assets/dost.png

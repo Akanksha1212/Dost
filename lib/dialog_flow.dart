@@ -46,7 +46,7 @@ class _DostState extends State<Dost> {
   void agentResponse(query) async {
     _textController.clear();
     AuthGoogle authGoogle =
-    await AuthGoogle(fileJson: "assets/dost-sfvyhv-d7ebfd769dab.json").build();
+    await AuthGoogle(fileJson: "assets/dost-sfvyhv-88dce8081da8.json").build();
     Dialogflow dialogFlow =
     Dialogflow(authGoogle: authGoogle, language: Language.english);
     AIResponse response = await dialogFlow.detectIntent(query);

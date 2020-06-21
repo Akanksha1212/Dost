@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61308924103",
+    "firebase_url": "https://dost-238bb.firebaseio.com",
+    "project_id": "dost-238bb",
+    "storage_bucket": "dost-238bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61308924103:android:bba1d221c013bb883b8ee2",
+        "android_client_info": {
+          "package_name": "com.example.dost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61308924103-e6f778vgvplfg0dcccpjt1rj425tglbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUkXdyCMJPUQq9c_T8GOXG5egWRllB0fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61308924103-e6f778vgvplfg0dcccpjt1rj425tglbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
